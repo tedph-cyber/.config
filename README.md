@@ -1,4 +1,4 @@
-# .config
-for hyprland and hyprpaper config or not...
-## i3 wayzzzzz...
-This is suprisingly a better journey.
+# 💤 LazyVim
+
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
